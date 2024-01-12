@@ -3,10 +3,12 @@ import './Landing.css';
 import  {Button, Form, Input} from 'antd';
 import { useNavigate } from 'react-router-dom';
 
+var name;
 function Landing() {
     const navigate = useNavigate();
-    const OnFinish = () => {
-        navigate('/board')
+    const OnFinish = (value) => {
+        name = value
+        navigate('/board', { state: name })
     }
     return (
 
@@ -38,5 +40,4 @@ function Landing() {
         </>
     );
 }
-
 export default Landing;

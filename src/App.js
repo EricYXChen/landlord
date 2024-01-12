@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Routes>
         <Route exact path ="/" element = {<Landing />}/>
-        <Route path = "/board" element = {<Board />}/>
+        <Route path = "/board" element = {<Board />} />
       </Routes>
 
     </Router>

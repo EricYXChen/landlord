@@ -1,9 +1,15 @@
 import React from 'react'
+import { useLocation } from 'react-router-dom';
 
-function Board () {
+function Board() {
+    
+    const { state } = useLocation();
+    console.log(state)
     return (
         <>
-        WELCOME TO THE BOARD
+        <html>
+        WELCOME, {state.username}
+        </html>
         </>
     );
 }
