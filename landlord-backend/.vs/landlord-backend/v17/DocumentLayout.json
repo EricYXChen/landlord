@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\landlord\\landlord-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28866A41-0325-48AA-A495-996345CF0162}|landlord-backend.csproj|c:\\landlord\\landlord-backend\\landlord-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28866A41-0325-48AA-A495-996345CF0162}|landlord-backend.csproj|solutionrelative:landlord-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28866A41-0325-48AA-A495-996345CF0162}|landlord-backend.csproj|c:\\landlord\\landlord-backend\\engine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28866A41-0325-48AA-A495-996345CF0162}|landlord-backend.csproj|solutionrelative:engine\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28866A41-0325-48AA-A495-996345CF0162}|landlord-backend.csproj|c:\\landlord\\landlord-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28866A41-0325-48AA-A495-996345CF0162}|landlord-backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28866A41-0325-48AA-A495-996345CF0162}|landlord-backend.csproj|c:\\landlord\\landlord-backend\\classes\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28866A41-0325-48AA-A495-996345CF0162}|landlord-backend.csproj|solutionrelative:classes\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\landlord\\landlord-backend\\Engine\\Game.cs",
+              "RelativeDocumentMoniker": "Engine\\Game.cs",
+              "ToolTip": "C:\\landlord\\landlord-backend\\Engine\\Game.cs",
+              "RelativeToolTip": "Engine\\Game.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:52:14.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "landlord-backend",
+              "DocumentMoniker": "C:\\landlord\\landlord-backend\\landlord-backend.csproj",
+              "RelativeDocumentMoniker": "landlord-backend.csproj",
+              "ToolTip": "C:\\landlord\\landlord-backend\\landlord-backend.csproj",
+              "RelativeToolTip": "landlord-backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T22:50:57.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\landlord\\landlord-backend\\Classes\\Card.cs",
+              "RelativeDocumentMoniker": "Classes\\Card.cs",
+              "ToolTip": "C:\\landlord\\landlord-backend\\Classes\\Card.cs",
+              "RelativeToolTip": "Classes\\Card.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:20:42.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\landlord\\landlord-backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\landlord\\landlord-backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:18:30.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

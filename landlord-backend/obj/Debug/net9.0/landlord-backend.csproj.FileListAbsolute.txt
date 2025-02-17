@@ -1,0 +1,15 @@
+C:\landlord\landlord-backend\bin\Debug\net9.0\landlord-backend.exe
+C:\landlord\landlord-backend\bin\Debug\net9.0\landlord-backend.deps.json
+C:\landlord\landlord-backend\bin\Debug\net9.0\landlord-backend.runtimeconfig.json
+C:\landlord\landlord-backend\bin\Debug\net9.0\landlord-backend.dll
+C:\landlord\landlord-backend\bin\Debug\net9.0\landlord-backend.pdb
+C:\landlord\landlord-backend\obj\Debug\net9.0\landlord-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\landlord\landlord-backend\obj\Debug\net9.0\landlord-backend.AssemblyInfoInputs.cache
+C:\landlord\landlord-backend\obj\Debug\net9.0\landlord-backend.AssemblyInfo.cs
+C:\landlord\landlord-backend\obj\Debug\net9.0\landlord-backend.csproj.CoreCompileInputs.cache
+C:\landlord\landlord-backend\obj\Debug\net9.0\landlord-backend.sourcelink.json
+C:\landlord\landlord-backend\obj\Debug\net9.0\landlord-backend.dll
+C:\landlord\landlord-backend\obj\Debug\net9.0\refint\landlord-backend.dll
+C:\landlord\landlord-backend\obj\Debug\net9.0\landlord-backend.pdb
+C:\landlord\landlord-backend\obj\Debug\net9.0\landlord-backend.genruntimeconfig.cache
+C:\landlord\landlord-backend\obj\Debug\net9.0\ref\landlord-backend.dll
