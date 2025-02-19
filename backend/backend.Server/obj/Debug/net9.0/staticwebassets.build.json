@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "R8Zx6c3+PbbsInk+VjYHsYf+w8ZGr2oLIRxsV0rVVNM=",
+  "Source": "backend.Server",
+  "BasePath": "_content/backend.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\landlord\\backend\\backend.client\\backend.client.esproj",
+      "Version": 2,
+      "Source": "backend.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

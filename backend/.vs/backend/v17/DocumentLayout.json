@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\landlord\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\src\\signalrservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\src\\signalrservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\src\\chat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\src\\chat.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\src\\chat.jsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\src\\chat.jsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\src\\signalrservice.js||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\src\\signalrservice.js||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\backend.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\backend.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\backend.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\backend.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|c:\\landlord\\backend\\backend.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04419FB7-B7EB-4851-B5AC-3717D7D16350}|backend.Server\\backend.Server.csproj|solutionrelative:backend.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|c:\\landlord\\backend\\backend.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EEDDF5E-D7C7-DC73-3616-2D4D8210DAC2}|backend.client\\backend.client.esproj|solutionrelative:backend.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chat.jsx",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\src\\Chat.jsx",
+              "RelativeDocumentMoniker": "backend.client\\src\\Chat.jsx",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\src\\Chat.jsx",
+              "RelativeToolTip": "backend.client\\src\\Chat.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T21:24:56.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signalrService.js",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\src\\signalrService.js",
+              "RelativeDocumentMoniker": "backend.client\\src\\signalrService.js",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\src\\signalrService.js",
+              "RelativeToolTip": "backend.client\\src\\signalrService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T21:23:25.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chat.jsx",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\src\\Chat.jsx",
+              "RelativeDocumentMoniker": "backend.client\\src\\Chat.jsx",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\src\\Chat.jsx",
+              "RelativeToolTip": "backend.client\\src\\Chat.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T21:14:37.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "signalrService.js",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\src\\signalrService.js",
+              "RelativeDocumentMoniker": "backend.client\\src\\signalrService.js",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\src\\signalrService.js",
+              "RelativeToolTip": "backend.client\\src\\signalrService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T21:05:52.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\src\\index.css",
+              "RelativeDocumentMoniker": "backend.client\\src\\index.css",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\src\\index.css",
+              "RelativeToolTip": "backend.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T19:36:55.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\package.json",
+              "RelativeDocumentMoniker": "backend.client\\package.json",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\package.json",
+              "RelativeToolTip": "backend.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T19:25:03.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chathub.cs",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\Hubs\\Chathub.cs",
+              "RelativeDocumentMoniker": "backend.Server\\Hubs\\Chathub.cs",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\Hubs\\Chathub.cs",
+              "RelativeToolTip": "backend.Server\\Hubs\\Chathub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:23:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "backend.Server.csproj",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\backend.Server.csproj",
+              "RelativeDocumentMoniker": "backend.Server\\backend.Server.csproj",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\backend.Server.csproj",
+              "RelativeToolTip": "backend.Server\\backend.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T19:22:21.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "backend.client\\src\\main.jsx",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\src\\main.jsx",
+              "RelativeToolTip": "backend.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T19:17:21.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "backend.client\\src\\App.jsx",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\src\\App.jsx",
+              "RelativeToolTip": "backend.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-02-18T19:11:59.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\Program.cs",
+              "RelativeDocumentMoniker": "backend.Server\\Program.cs",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\Program.cs",
+              "RelativeToolTip": "backend.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:11:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T19:12:21.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "backend.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "backend.Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:16:15.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backend.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\appsettings.Development.json",
+              "RelativeToolTip": "backend.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T19:16:14.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "backend.Server.http",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\backend.Server.http",
+              "RelativeDocumentMoniker": "backend.Server\\backend.Server.http",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\backend.Server.http",
+              "RelativeToolTip": "backend.Server\\backend.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-18T19:16:11.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.client\\src\\App.css",
+              "RelativeDocumentMoniker": "backend.client\\src\\App.css",
+              "ToolTip": "C:\\landlord\\backend\\backend.client\\src\\App.css",
+              "RelativeToolTip": "backend.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T19:11:58.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:10:59.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\landlord\\backend\\backend.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "backend.Server\\appsettings.json",
+              "ToolTip": "C:\\landlord\\backend\\backend.Server\\appsettings.json",
+              "RelativeToolTip": "backend.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T19:12:16.003Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
